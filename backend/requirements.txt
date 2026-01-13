@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+pandas
+numpy
+python-multipart
+scikit-learn
+python-dateutil
+scipy
+openpyxl
+python-dotenv
+pydantic
+chardet
